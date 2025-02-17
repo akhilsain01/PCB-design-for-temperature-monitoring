@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ATMEGA328-PU")(type "KiCad")(uri "C:/Users/padmavathisrinivasa/Downloads/ATMEGA328-PU")(options "")(descr ""))
+)

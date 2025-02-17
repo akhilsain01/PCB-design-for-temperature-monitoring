@@ -1,0 +1,9 @@
+References:
+
+1. Temperature monitoring  schematics circuit by professor Kuhn.
+2. KiCad online tutorials by professor Bannwarth.
+   www.youtube.com/@stephanbannwarth3454
+3. Reichelt electronik for pricing and dimensions.
+    https://www.reichelt.de/
+4. SnapEDA for ATMega328P-PU library.
+  https://www.snapeda.com/parts/ATMEGA328P-PU/Microchip/view-part/
